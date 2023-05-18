@@ -23,7 +23,7 @@ setup(
     packages=find_packages(exclude=['ez_setup']),
     tests_require=['nose'],
     test_suite='nose.collector',
-    url='https://github.com/erikrose/parsimonious',
+    url='https://github.com/alexfoglia/parsimonious',
     include_package_data=True,
     install_requires=['six>=1.9.0'],
     classifiers=[
